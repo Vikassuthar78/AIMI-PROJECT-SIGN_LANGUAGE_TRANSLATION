@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background: #101010;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.video-container {
+  margin: 20px auto;
+  border: 4px solid #00ff99;
+  display: inline-block;
+}
+
+.prediction-box {
+  margin-top: 20px;
+  font-size: 1.5em;
+}

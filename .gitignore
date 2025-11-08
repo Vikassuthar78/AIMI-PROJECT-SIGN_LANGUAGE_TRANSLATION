@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.dll
+*.pyd
+*.so
+*.h5
+*.keras
+*.pkl
+*.tflite
